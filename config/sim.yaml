@@ -36,8 +36,8 @@ bridge:
 
     # Noisy odom topics
     ego_noisy_odom_topic: 'noisy_odom'
-    ego_odom_noise_cov_speed: 0.0
-    ego_odom_noise_cov_heading: 0.0
+    ego_odom_noise_cov_speed: 2.0
+    ego_odom_noise_cov_heading: 2.0
 
     # transform related
     scan_distance_to_base_link: 0.0
