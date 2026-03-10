@@ -47,7 +47,7 @@ bridge:
     scan_beams: 1080
 
     # map parameters
-    map_path: '/sim_ws/src/f1tenth_gym_ros/maps/levine'
+    map_path: '/home/amen07/team2_ws/f1tenth/src/dcsl_f1tenth/dcsl_f1tenth/VipPathOptimization/maps/f1tenth_maps/maps/rectangle3'
     map_img_ext: '.png'
 
     # opponent parameters
